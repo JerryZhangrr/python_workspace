@@ -33,7 +33,7 @@ Day4
         - 服务编排层
         - 能力中心（APP）           
         - 数据访问层
-            - MySQL Oracle NaSQL
+            - MySQL Oracle NoSQL
         - 数据分布式存储   
 
 - 用户信息保护
